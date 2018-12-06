@@ -61,6 +61,7 @@ int main()
 	cout << "Время: " << seconds << " сек" << endl;
 
 	cout << endl;
+	system("pause");
 	return 0;
 }
 
